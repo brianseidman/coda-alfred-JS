@@ -560,7 +560,7 @@ Browse [Coda](https://coda.io) in [Alfred](https://alfredapp.com) — written in
 
 ![CodaAlfredJS](images/codaalfredjs_screenshot.png)
 
-This Alfred workflow was inspired **very** heavily by Daniel Stieber's original [CodAlfred](https://github.com/danielstieber/CodAlfred) workflow. But CodAlfred was written in Python, and as of macOS Monterey, Apple has stopped pre-installing Python on macOS. Python can be reinstalled and there are methods for [reenabling Python with Alfred](https://www.alfredapp.com/help/kb/python-2-monterey/), but writing a new Coda/Alfred workflow in JavaScript seemed like a more direct solution — hence, CodaAlfredJS.
+This Alfred workflow was inspired **very** heavily by Daniel Stieber's original [CodAlfred](https://github.com/danielstieber/CodAlfred) workflow. But CodAlfred was written in PHP, and as of macOS Monterey, Apple has stopped pre-installing PHP on macOS. PHP can be reinstalled and there are methods for [reenabling PHP for Alfred](https://www.alfredforum.com/topic/17062-using-php-on-monterey-macos-12/), but writing a new Coda/Alfred workflow in JavaScript seemed like a more direct solution — hence, **CodaAlfredJS**.
 
 Easy set-up:
 - 💻 Download and install the CodaAlfredJS workflow.
@@ -768,7 +768,7 @@ No user data is shared with me via this Alfred workflow. Your Coda API access to
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>1.0.0</string>
+	<string>1.0.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/brianseidman</string>
 </dict>
