@@ -4,7 +4,7 @@ Browse [Coda](https://coda.io) in [Alfred](https://alfredapp.com) — written in
 
 ![CodaAlfredJS](images/codaalfredjs_screenshot.png)
 
-This Alfred workflow was inspired **very** heavily by Daniel Stieber's original [CodAlfred](https://github.com/danielstieber/CodAlfred) workflow. But CodAlfred was written in PHP, and as of macOS Monterey, Apple has stopped pre-installing PHP on macOS. PHP can be reinstalled and there are methods for [reenabling PHP for Alfred](https://www.alfredforum.com/topic/17062-using-php-on-monterey-macos-12/), but writing a new Coda/Alfred workflow in JavaScript seemed like a more direct solution — hence, CodaAlfredJS.
+This Alfred workflow was inspired **very** heavily by Daniel Stieber's original [CodAlfred](https://github.com/danielstieber/CodAlfred) workflow. But CodAlfred was written in PHP, and as of macOS Monterey, Apple has stopped pre-installing PHP on macOS. PHP can be reinstalled and there are methods for [reenabling PHP for Alfred](https://www.alfredforum.com/topic/17062-using-php-on-monterey-macos-12/), but writing a new Coda/Alfred workflow in JavaScript seemed like a more direct solution — hence, **CodaAlfredJS**.
 
 Easy setup:
 - 💻 Download and install the CodaAlfredJS workflow.
