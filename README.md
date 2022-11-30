@@ -6,7 +6,7 @@ Browse [Coda](https://coda.io) in [Alfred](https://alfredapp.com) — written in
 
 This Alfred workflow was inspired **very** heavily by Daniel Stieber's original [CodAlfred](https://github.com/danielstieber/CodAlfred) workflow. But CodAlfred was written in Python, and as of macOS Monterey, Apple has stopped pre-installing Python on macOS. Python can be reinstalled and there are methods for [reenabling Python with Alfred](https://www.alfredapp.com/help/kb/python-2-monterey/), but writing a new Coda/Alfred workflow in JavaScript seemed like a more direct solution — hence, CodaAlfredJS.
 
-Easy set-up:
+Easy setup:
 - 💻 Download and install the CodaAlfredJS workflow.
 - 🔐 Enter your [Coda API](https://coda.io/account) in the "Configure Workflow" box when prompted.
 - 😀 Browse Coda via Alfred. That's it!
