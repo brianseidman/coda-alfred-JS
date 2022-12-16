@@ -29,10 +29,14 @@ cdapi|Opens the Coda API reference.
 ## Preferences
 Under the Alfred workflow's User Configuration, `doc_limit` is set to `10` by default. This controls how many docs are returned by the `cd` command; modify this for fewer/more results.
 
+## Alfred Versioning
+CodaAlfredJS is optimized for use with **Alfred 5**, including the [Workflow Configuration](https://www.alfredapp.com/help/workflows/user-configuration) function that makes it easy to set up CodaAlfredJS on the first use. 
+
+For Alfred 4 and previous, you must create a [Workflow Environment Variable](https://www.alfredapp.com/help/workflows/advanced/variables/#environment) called `api` and then set your Coda API key as the variable. Note that the minimum recommended version of Alfred for using CodaAlfredJS is Alfred 5, and CodaAlfredJS is not optimized for Alfred versions below Alfred 5.
+
 ## Roadmap
 - Duplicate a doc
 - Browse/modify your Coda documents from the doc to the cell level ...
-
 
 ## Privacy
 No user data is shared with me via this Alfred workflow. Your Coda API access token is not included if you duplicate or export the workflow.
